@@ -57,7 +57,7 @@ const ResumeEducation = () => {
                         return (
                             <div key={index}>
                                 <div className="row justify-content-center resume-content-education-school p-2">
-                                    <div className="col-12 col-md-3 period ps-4 ps-md-0 fw-bold">
+                                    <div className="col-12 col-md-3 period ps-4 ps-md-0 fw-bold mb-2">
                                         <button 
                                             type="button" 
                                             className="btn btn-sm btn-warning rounded-circle"
