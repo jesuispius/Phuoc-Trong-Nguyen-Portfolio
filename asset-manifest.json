@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Phuoc-Trong-Nguyen-Portfolio/static/css/main.0a13d74d.css",
+    "main.css": "/Phuoc-Trong-Nguyen-Portfolio/static/css/main.84d8ded7.css",
     "main.js": "/Phuoc-Trong-Nguyen-Portfolio/static/js/main.8f6034e5.js",
     "static/js/787.128fc6e9.chunk.js": "/Phuoc-Trong-Nguyen-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/photograph_1140.png": "/Phuoc-Trong-Nguyen-Portfolio/static/media/photograph_1140.1b0b930dddcb9226e075.png",
@@ -15,12 +15,12 @@
     "index.html": "/Phuoc-Trong-Nguyen-Portfolio/index.html",
     "static/media/background_magenta(1).svg": "/Phuoc-Trong-Nguyen-Portfolio/static/media/background_magenta(1).201ed0f405f5f94e28c4.svg",
     "static/media/wave-haikei-line-breaker.svg": "/Phuoc-Trong-Nguyen-Portfolio/static/media/wave-haikei-line-breaker.e16da9344193343b76174280d90e8044.svg",
-    "main.0a13d74d.css.map": "/Phuoc-Trong-Nguyen-Portfolio/static/css/main.0a13d74d.css.map",
+    "main.84d8ded7.css.map": "/Phuoc-Trong-Nguyen-Portfolio/static/css/main.84d8ded7.css.map",
     "main.8f6034e5.js.map": "/Phuoc-Trong-Nguyen-Portfolio/static/js/main.8f6034e5.js.map",
     "787.128fc6e9.chunk.js.map": "/Phuoc-Trong-Nguyen-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a13d74d.css",
+    "static/css/main.84d8ded7.css",
     "static/js/main.8f6034e5.js"
   ]
 }
