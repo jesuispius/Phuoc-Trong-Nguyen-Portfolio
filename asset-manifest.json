@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Phuoc-Trong-Nguyen-Portfolio/static/css/main.0a13d74d.css",
+    "main.js": "/Phuoc-Trong-Nguyen-Portfolio/static/js/main.8f6034e5.js",
+    "static/js/787.128fc6e9.chunk.js": "/Phuoc-Trong-Nguyen-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/photograph_1140.png": "/Phuoc-Trong-Nguyen-Portfolio/static/media/photograph_1140.1b0b930dddcb9226e075.png",
+    "static/media/photograph_990.png": "/Phuoc-Trong-Nguyen-Portfolio/static/media/photograph_990.8e540c907a9cfe49534f.png",
+    "static/media/photograph_720.png": "/Phuoc-Trong-Nguyen-Portfolio/static/media/photograph_720.a1a3f3bf2c722fc0be97.png",
+    "static/media/Get in touch-cuate-yellow.svg": "/Phuoc-Trong-Nguyen-Portfolio/static/media/Get in touch-cuate-yellow.02899216fc2351a10e9df4e65fa386b8.svg",
+    "static/media/photograph_2.png": "/Phuoc-Trong-Nguyen-Portfolio/static/media/photograph_2.10561f1b2388e04c422b.png",
+    "static/media/revicons.eot": "/Phuoc-Trong-Nguyen-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Phuoc-Trong-Nguyen-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Phuoc-Trong-Nguyen-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/stacked-peaks-haikei-yellow.svg": "/Phuoc-Trong-Nguyen-Portfolio/static/media/stacked-peaks-haikei-yellow.6ed0f196bfed70eb345d7b7d5e2e754e.svg",
+    "index.html": "/Phuoc-Trong-Nguyen-Portfolio/index.html",
+    "static/media/background_magenta(1).svg": "/Phuoc-Trong-Nguyen-Portfolio/static/media/background_magenta(1).201ed0f405f5f94e28c4.svg",
+    "static/media/wave-haikei-line-breaker.svg": "/Phuoc-Trong-Nguyen-Portfolio/static/media/wave-haikei-line-breaker.e16da9344193343b76174280d90e8044.svg",
+    "main.0a13d74d.css.map": "/Phuoc-Trong-Nguyen-Portfolio/static/css/main.0a13d74d.css.map",
+    "main.8f6034e5.js.map": "/Phuoc-Trong-Nguyen-Portfolio/static/js/main.8f6034e5.js.map",
+    "787.128fc6e9.chunk.js.map": "/Phuoc-Trong-Nguyen-Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a13d74d.css",
+    "static/js/main.8f6034e5.js"
+  ]
+}
